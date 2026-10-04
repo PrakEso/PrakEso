@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20260810-164901-dwuc",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "7ADEF17B-70E8-EE11-8467-122223FBD123",
+        "name": "Sanguis Vindictae",
+        "tag": "sV"
+      },
+      "dateStart": "2026-08-10T14:49:01.000Z",
+      "dateEnd": "2026-08-10T16:58:03.330Z",
+      "dateLabel": "10/08/2026 16:49:01 - 10/08/2026 18:58:03",
+      "url": "https://PrakEso.github.io/PrakEso/?report=20260810-164901-dwuc",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 29,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 35,
+        "avgEnemySize": 33
+      }
+    },
+    {
       "id": "20260810-164901-f5jl",
       "title": "Präk",
       "commanders": [
