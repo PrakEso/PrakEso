@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261004-163832-84tn",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "CBF9E9C2-1252-4870-AF85-E2B32C050F94",
+        "name": "Esoteriks",
+        "tag": "Eso"
+      },
+      "dateStart": "2026-10-04T14:38:32.000Z",
+      "dateEnd": "2026-10-04T15:56:04.205Z",
+      "dateLabel": "04/10/2026 16:38:32 - 04/10/2026 17:56:04",
+      "url": "https://PrakEso.github.io/PrakEso/?report=20261004-163832-84tn",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 46,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 24,
+        "avgEnemySize": 44
+      }
+    },
+    {
       "id": "20260810-164901-dwuc",
       "title": "Präk",
       "commanders": [
