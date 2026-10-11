@@ -5,6 +5,34 @@
   "glassSurfaces": false,
   "entries": [
     {
+      "id": "20261011-163151-hg3b",
+      "title": "Brutus On Mesmer",
+      "commanders": [
+        "Brutus On Mesmer"
+      ],
+      "guild": {
+        "id": "7ADEF17B-70E8-EE11-8467-122223FBD123",
+        "name": "Sanguis Vindictae",
+        "tag": "sV"
+      },
+      "dateStart": "2026-10-11T14:31:51.000Z",
+      "dateEnd": "2026-10-11T14:58:57.235Z",
+      "dateLabel": "11/10/2026 16:31:51 - 11/10/2026 16:58:57",
+      "url": "https://PrakEso.github.io/PrakEso/?report=20261011-163151-hg3b",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 41,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 36,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20261004-163832-84tn",
       "title": "Präk",
       "commanders": [
