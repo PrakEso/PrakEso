@@ -3,7 +3,50 @@
   "axiTheme": "default",
   "glass": false,
   "glassSurfaces": false,
+  "generator": {
+    "app": "axibridge",
+    "version": "3.22.6"
+  },
   "entries": [
+    {
+      "id": "20261013-201245-oswe",
+      "title": "Präk",
+      "commanders": [
+        "Präk"
+      ],
+      "guild": {
+        "id": "CBF9E9C2-1252-4870-AF85-E2B32C050F94",
+        "name": "Esoteriks",
+        "tag": "Eso"
+      },
+      "dateStart": "2026-10-13T18:12:45.000Z",
+      "dateEnd": "2026-10-13T20:27:27.856Z",
+      "dateLabel": "13/10/2026 20:12:45 - 13/10/2026 22:27:27",
+      "url": "https://PrakEso.github.io/PrakEso/?report=20261013-201245-oswe",
+      "publishedBy": "PrakEso",
+      "summary": {
+        "borderlandsPct": 0.46808510638297873,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 25,
+            "color": "#ffffff"
+          },
+          {
+            "name": "Green Borderlands",
+            "value": 19,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 29,
+        "avgEnemySize": 36
+      }
+    },
     {
       "id": "20261011-163151-hg3b",
       "title": "Brutus On Mesmer",
