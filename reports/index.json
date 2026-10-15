@@ -9,6 +9,35 @@
   },
   "entries": [
     {
+      "id": "20261015-172545-llsw",
+      "title": "Prak Mesmerizing",
+      "commanders": [
+        "Prak Mesmerizing"
+      ],
+      "guild": {
+        "id": "CBF9E9C2-1252-4870-AF85-E2B32C050F94",
+        "name": "Esoteriks",
+        "tag": "Eso"
+      },
+      "dateStart": "2026-10-15T15:25:45.000Z",
+      "dateEnd": "2026-10-15T16:00:50.545Z",
+      "dateLabel": "15/10/2026 17:25:45 - 15/10/2026 18:00:50",
+      "url": "https://PrakEso.github.io/PrakEso/?report=20261015-172545-llsw",
+      "publishedBy": "PrakEso",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 38,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 30
+      }
+    },
+    {
       "id": "20261013-201245-oswe",
       "title": "Präk",
       "commanders": [
