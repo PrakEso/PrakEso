@@ -5,9 +5,39 @@
   "glassSurfaces": false,
   "generator": {
     "app": "axibridge",
-    "version": "3.22.6"
+    "version": "3.22.7"
   },
   "entries": [
+    {
+      "id": "20261027-210955-9jr5",
+      "title": "Lavi No Veil, Prak Mesmerizing",
+      "commanders": [
+        "Lavi No Veil",
+        "Prak Mesmerizing"
+      ],
+      "guild": {
+        "id": "7ADEF17B-70E8-EE11-8467-122223FBD123",
+        "name": "Sanguis Vindictae",
+        "tag": "sV"
+      },
+      "dateStart": "2026-10-27T20:09:55.000Z",
+      "dateEnd": "2026-10-27T21:03:13.398Z",
+      "dateLabel": "27/10/2026 21:09:55 - 27/10/2026 22:03:13",
+      "url": "https://PrakEso.github.io/PrakEso/?report=20261027-210955-9jr5",
+      "publishedBy": "PrakEso",
+      "summary": {
+        "borderlandsPct": 0,
+        "mapSlices": [
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 13,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 26,
+        "avgEnemySize": 38
+      }
+    },
     {
       "id": "20261015-172545-llsw",
       "title": "Prak Mesmerizing",
